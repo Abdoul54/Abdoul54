@@ -1,35 +1,20 @@
+
+<h1 align="center">Hey there, I'm Abdelwahed Akhechane! 👋</h1>
 <div align="center">
   <img height="80%" width="80%" src="https://media.giphy.com/media/h3iQhonqORARuUK5jd/giphy.gif"  />
 </div>
 
-###
+<h3 align="left">👩‍💻 About Me</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdelwahed-akhechane/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/abdoul_adf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+<p align="center">I'm a passionate Full Stack Developer with a love for learning and exploring new technologies.</p>
 
-###
+<ul align="center">
+  <li>🔭 Currently working on exciting projects as a Full Stack Developer</li>
+  <li>📚 Constantly learning and expanding my skillset</li>
+  <li>⚡ Enthusiastic about diving deep into the latest trends and innovations in tech</li>
+</ul>
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">I'm Abdelwahed Akhechane<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning new things<br>- ⚡ In my free time I learn more new things</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Skills & Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="apache logo"  />
@@ -105,14 +90,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
 </div>
 
-###
+<h3 align="left">📫 Contact Me</h3>
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">Feel free to reach out to me through any of the following channels:</p>
 
-###
+<div align="center">
+  <a href="mailto:abdelwahed.akhechane@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=Gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" alt="email badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdelwahed-akhechane/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin badge" />
+  </a>
+  <a href="https://twitter.com/abdoul_adf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter badge" />
+  </a>
+</div>
+
+<h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abdoul54&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<div align="center">
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdoul54&show_icons=true&locale=en&layout=compact" alt="Abdoul54" height="150"/>
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abdoul54&show_icons=true&locale=en" alt="Abdoul54" height="150"/>
+</div>
+
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdoul54" alt="github profile trophy" />
+  </a>
+</div>
