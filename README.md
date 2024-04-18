@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there, I'm Abdelwahed Akhechane! 👋</h1>
 <div align="center">
   <img height="80%" width="80%" src="https://media.giphy.com/media/h3iQhonqORARuUK5jd/giphy.gif"  />
@@ -113,14 +112,19 @@
 </div>
 
 <div align="center">
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdoul54&show_icons=true&locale=en&layout=compact" alt="Abdoul54" height="150"/>
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abdoul54&show_icons=true&locale=en" alt="Abdoul54" height="150"/>
-</div>
-
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdoul54" alt="github profile trophy" />
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=Abdoul54">
+    <img src="https://stats.quine.sh/Abdoul54/github?theme=dark" alt="Github Over Time" height="400"/>
   </a>
+  <div align="center">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Abdoul54">
+    <img align="left" src="https://stats.quine.sh/Abdoul54/topics-over-time?theme=dark" alt="Topics Over Time" height="400"/>
+  </a>
+  
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=Abdoul54">
+    <img align="right" src="https://stats.quine.sh/Abdoul54/languages-over-time?theme=dark" alt="Languages Over Time" height="400"/>
+  </a>
+<div>
+
+  </div>
 </div>
+
