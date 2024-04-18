@@ -115,16 +115,13 @@
     <a href="https://quine.sh?utm_source=widgets&utm_campaign=Abdoul54">
     <img src="https://stats.quine.sh/Abdoul54/github?theme=dark" alt="Github Over Time" height="400"/>
   </a>
-  <div align="center">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Abdoul54">
-    <img align="left" src="https://stats.quine.sh/Abdoul54/topics-over-time?theme=dark" alt="Topics Over Time" height="400"/>
+    <img src="https://stats.quine.sh/Abdoul54/topics-over-time?theme=dark" alt="Topics Over Time" height="375"/>
   </a>
   
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Abdoul54">
-    <img align="right" src="https://stats.quine.sh/Abdoul54/languages-over-time?theme=dark" alt="Languages Over Time" height="400"/>
+    <img src="https://stats.quine.sh/Abdoul54/languages-over-time?theme=dark" alt="Languages Over Time" height="375"/>
   </a>
-<div>
 
-  </div>
 </div>
 
