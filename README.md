@@ -122,6 +122,9 @@
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=Abdoul54">
     <img src="https://stats.quine.sh/Abdoul54/languages-over-time?theme=dark" alt="Languages Over Time" height="375"/>
   </a>
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=Abdoul54">
+    <img src="https://stats.quira.sh/Abdoul54/dependencies?theme=dark" alt="Languages Over Time" height="375"/>
+  </a>
 
 </div>
 
